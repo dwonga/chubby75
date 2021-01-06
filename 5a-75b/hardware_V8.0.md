@@ -15,8 +15,8 @@ Components
 PCB overview
 ------------
 
-![PCB front](images/cl-5a-75b-v80-front.jpg)
-![PCB back](images/cl-5a-75b-v80-back.jpg)
+![PCB front](images/cl_5a-75b-v80-front.jpg)
+![PCB back](images/cl_5a-75b-v80-back.jpg)
 
 
 Definitions
